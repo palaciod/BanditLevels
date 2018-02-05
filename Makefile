@@ -1,6 +1,6 @@
 CXX=g++
 CXXFLAGS=-std=c++11 -02 -wall
 
-all: epizeuxis
+all: NameOfFile
 clean:
-		rm -rf epizeuxis
+		rm -rf NameOfFile

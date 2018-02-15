@@ -7,7 +7,7 @@ using namespace std;
 */
 
 /**
-* The strangeText method returns a string that has filtered the strange test that appears within
+* The strangeText method returns a string that has filtered the strange text that appears within
 * dataLevel9.txt file. It also filters numbers and letters that aren't part of the password.
 * I do this by iterating through each character of the string and determine whether that character
 * is part of the alphabet or is a digit. Now keep in mind we would have to filter out the letters and
@@ -56,6 +56,6 @@ int main(int argc, char const *argv[]) {
 }
 /*
 * I should probably mention the command line that would get the password.
-* It's pretty stright foward in unix command line.
+* It's pretty straight foward in unix command line.
 * The command line : strings data.txt | grep '='
 */

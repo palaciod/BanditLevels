@@ -58,4 +58,5 @@ int main(int argc, char const *argv[]) {
 * I should probably mention the command line that would get the password.
 * It's pretty straight foward in unix command line.
 * The command line : strings data.txt | grep '='
+* P.S if you use cat data.txt the password is not hard to find. It's the only readable line within the entire text(LOL). 
 */
